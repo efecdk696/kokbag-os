@@ -1,0 +1,17 @@
+{
+  "name": "KÖKBAĞ OS | EFE CIDIK INDUSTRIAL",
+  "short_name": "KÖKBAĞ OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b100d",
+  "theme_color": "#101713",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
